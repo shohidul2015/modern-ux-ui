@@ -19,13 +19,13 @@ export default function Navbar({ scrolled }) {
             <div>
               <img
                 src="/logo.png"
-                alt="CodeFlow"
+                alt="DevSpark"
                 className="w-6 h-6"
               />
             </div>
             <span className="text-lg sm:text-xl md:text-2xl font-medium">
-              <span className="text-white">Code</span>
-              <span className="text-blue-400">Flow</span>
+              <span className="text-white">Dev</span>
+              <span className="text-blue-400">Spark</span>
             </span>
           </div>
 
